@@ -1,0 +1,194 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-pissed",
+			"fps": 24,
+			"name": "UberKidIdlePISSED",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				7
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "UberKidTaunt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				15
+			],
+			"anim": "reaction",
+			"fps": 24,
+			"name": "UberKidReaction",
+			"indices": []
+		},
+		{
+			"offsets": [
+				746,
+				144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shot",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				18,
+				18,
+				18,
+				18,
+				18,
+				18,
+				18,
+				18,
+				18,
+				18,
+				18,
+				18,
+				18
+			],
+			"name": "UberKidDies"
+		},
+		{
+			"offsets": [
+				105,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "punch",
+			"indices": [],
+			"name": "UberKidGonnaPunch"
+		},
+		{
+			"offsets": [
+				105,
+				-5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "punch-loop",
+			"indices": [
+				16,
+				16
+			],
+			"name": "UberKidGonnaPunch"
+		},
+		{
+			"offsets": [
+				-44,
+				-15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Marker Idle"
+		},
+		{
+			"offsets": [
+				-44,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Marker Left"
+		},
+		{
+			"offsets": [
+				-44,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Marker Down"
+		},
+		{
+			"offsets": [
+				-44,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Marker Right"
+		},
+		{
+			"offsets": [
+				-44,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Marker Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DCMarker",
+	"position": [
+		-300,
+		20
+	],
+	"healthicon": "difficulty",
+	"flip_x": false,
+	"healthbar_colors": [
+		140,
+		143,
+		149
+	],
+	"camera_position": [
+		30,
+		130
+	],
+	"sing_duration": 6.1,
+	"scale": 0.899999999999999
+}

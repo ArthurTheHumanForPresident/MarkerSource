@@ -1,0 +1,59 @@
+{
+	"songs": [
+		[
+			"Release",
+			"ghost",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Reactor",
+			"sus",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Inner Peace",
+			"serenity",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Markerous",
+			"difficulty",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "spawn",
+	"difficulties": "",
+	"weekCharacters": [
+		"Marker",
+		"bf",
+		"gf"
+	],
+	"storyName": "The purple marker",
+	"weekName": "The purple marker",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

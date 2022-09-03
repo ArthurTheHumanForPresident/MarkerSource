@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Marker.png">
+<SubTexture name="Marker Idle0000" x="0" y="1612" width="397" height="525" frameX="-188" frameY="-163" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Idle0001" x="1910" y="1054" width="399" height="526" frameX="-187" frameY="-164" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Idle0002" x="397" y="1612" width="389" height="523" frameX="-192" frameY="-169" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Idle0003" x="786" y="1612" width="386" height="518" frameX="-191" frameY="-176" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Idle0004" x="2310" y="513" width="392" height="506" frameX="-190" frameY="-189" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Left0000" x="1910" y="0" width="400" height="527" frameX="-131" frameY="-148" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Left0001" x="1910" y="527" width="400" height="527" frameX="-131" frameY="-148" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Left0002" x="0" y="1082" width="394" height="530" frameX="-130" frameY="-143" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Left0003" x="394" y="1082" width="394" height="530" frameX="-130" frameY="-143" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Left0004" x="1511" y="532" width="399" height="531" frameX="-125" frameY="-140" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Left0005" x="1511" y="0" width="399" height="532" frameX="-125" frameY="-139" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Right0000" x="788" y="1082" width="362" height="530" frameX="-193" frameY="-180" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Right0001" x="1150" y="1082" width="362" height="530" frameX="-193" frameY="-180" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Right0002" x="1147" y="0" width="364" height="536" frameX="-200" frameY="-165" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Right0003" x="1147" y="536" width="364" height="536" frameX="-200" frameY="-165" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Right0004" x="782" y="0" width="365" height="539" frameX="-208" frameY="-157" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Right0005" x="0" y="543" width="365" height="539" frameX="-208" frameY="-157" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Up0000" x="2310" y="1019" width="402" height="505" frameX="-197" frameY="-194" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Up0001" x="2310" y="0" width="402" height="513" frameX="-197" frameY="-183" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Up0002" x="1172" y="1612" width="402" height="515" frameX="-197" frameY="-176" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Up0003" x="1574" y="1612" width="402" height="515" frameX="-197" frameY="-176" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Down0000" x="1512" y="1082" width="395" height="530" frameX="-162" frameY="-154" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Down0001" x="365" y="543" width="389" height="537" frameX="-161" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Down0002" x="754" y="543" width="389" height="537" frameX="-161" frameY="-145" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Down0003" x="0" y="0" width="391" height="543" frameX="-157" frameY="-137" frameWidth="720" frameHeight="720" />
+<SubTexture name="Marker Down0004" x="391" y="0" width="391" height="543" frameX="-157" frameY="-137" frameWidth="720" frameHeight="720" />
+</TextureAtlas>

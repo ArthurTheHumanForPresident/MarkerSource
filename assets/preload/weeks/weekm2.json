@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Red",
+			"red",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Tinted",
+			"red",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Stained",
+			"red",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "spawn",
+	"difficulties": "",
+	"weekCharacters": [
+		"Marker",
+		"bf",
+		"gf"
+	],
+	"storyName": "The purple marker",
+	"weekName": "The purple marker",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

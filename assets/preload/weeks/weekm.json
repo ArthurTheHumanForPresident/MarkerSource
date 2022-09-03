@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"Search",
+			"purple",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Mark",
+			"purple",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Scribbles",
+			"purple",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "spawn",
+	"difficulties": "",
+	"weekCharacters": [
+		"Marker",
+		"bf",
+		"gf"
+	],
+	"storyName": "The purple marker",
+	"weekName": "The purple marker",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
